@@ -1,6 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 classes
-/WebRoot/WEB-INF
 .idea
 *.iml
 *.eml
@@ -8,3 +7,4 @@ classes
 .project
 .classpath
 .myeclipse
+/WebRoot/WEB-INF/lib
