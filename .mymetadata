@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="GEManager"
+  id="myeclipse.1462849292452"
+  context-root="/GEManager"
+  j2ee-spec="6.0"
+  archive="GEManager.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
